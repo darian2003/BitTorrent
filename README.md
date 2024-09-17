@@ -1,4 +1,4 @@
-# BitTorrent
+# Multi-threading: Creating a BitTorrent Replica
 
 Balagiu Darian 
 
